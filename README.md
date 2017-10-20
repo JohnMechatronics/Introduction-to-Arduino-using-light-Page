@@ -1,2 +1,3 @@
 # Introduction-to-Arduino-using-light-Page
-This 3-hour workshop is an introduction to the Arduino microcontroller using LED's. 
+This Repository contains resources for a 3-hour workshop introducing the Arduino microcontroller using LED's. 
+
