@@ -3,14 +3,14 @@ RGB LED using Common Cathode
 */
 
 int redPin = 11;
-int greenPin = 10;
-int bluePin = 9;
+int bluePin = 10;
+int greenPin = 9;
 
 void setup()
 {
   pinMode(redPin, OUTPUT);
-  pinMode(greenPin, OUTPUT);
   pinMode(bluePin, OUTPUT);  
+  pinMode(greenPin, OUTPUT);
 }
 
 void loop()
